@@ -47,6 +47,7 @@ To ensure that the extended dataset retains the statistical characteristics of t
 2. Install the required Python packages:
    ```bash
    pip install jupyter notebook
+   pip install requirements.txt
    ```
 
 ## Usage
