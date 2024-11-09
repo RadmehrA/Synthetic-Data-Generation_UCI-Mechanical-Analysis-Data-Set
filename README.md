@@ -40,7 +40,7 @@ To ensure that the extended dataset retains the statistical characteristics of t
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/RadmehrA/Synthetic-Data-Generation_UCI-Mechanical-Analysis-Data-Set.git>
    cd <repository_folder>
    ```
 
