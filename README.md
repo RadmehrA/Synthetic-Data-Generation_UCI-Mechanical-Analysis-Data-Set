@@ -41,7 +41,7 @@ To ensure that the extended dataset retains the statistical characteristics of t
 1. Clone the repository:
    ```bash
    git clone <https://github.com/RadmehrA/Synthetic-Data-Generation_UCI-Mechanical-Analysis-Data-Set.git>
-   cd <repository_folder>
+   cd <https://github.com/RadmehrA/Synthetic-Data-Generation_UCI-Mechanical-Analysis-Data-Set/>
    ```
 
 2. Install the required Python packages:
