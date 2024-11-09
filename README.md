@@ -46,12 +46,12 @@ To ensure that the extended dataset retains the statistical characteristics of t
 
 2. Install the required Python packages:
    ```bash
-   pip install -r requirements.txt
+   pip install jupyter notebook
    ```
 
 ## Usage
 1. **Prepare Data**: Place your UCI Mechanical Analysis dataset in the designated directory or load it in the script as instructed.
-2. **Run the Data Generation Script**:
+2. **Run the Data Generation notebook**:
    ```bash
    python data_generation.py
    ```
