@@ -2,7 +2,7 @@
 # Synthetic Data Generation for UCI Mechanical Analysis Dataset
 
 ## Description
-This project generates synthetic data to extend the [UCI Mechanical Analysis Data Set](https://archive.ics.uci.edu/ml/datasets.php) by interpolating intermediate points between existing data points. The goal is to create a larger dataset while maintaining the statistical relationships present in the original data, which is useful for tasks that benefit from an expanded dataset, such as machine learning model training and statistical analysis.
+This project generates synthetic data to extend the [UCI Mechanical Analysis Data Set](https://www.kaggle.com/datasets/heitornunes/mechanical-analysis) by interpolating intermediate points between existing data points. The goal is to create a larger dataset while maintaining the statistical relationships present in the original data, which is useful for tasks that benefit from an expanded dataset, such as machine learning model training and statistical analysis.
 
 ## Table of Contents
 - [Background](#background)
@@ -20,7 +20,7 @@ This project generates synthetic data to extend the [UCI Mechanical Analysis Dat
 In data science, having a large and representative dataset can significantly improve the performance of machine learning models. This project extends the UCI Mechanical Analysis Dataset by generating additional synthetic data points through interpolation. A key part of this process is to validate that the extended dataset maintains the statistical properties of the original dataset.
 
 ## Dataset
-The original dataset used in this project is the **UCI Mechanical Analysis Data Set**. This dataset contains various mechanical attributes, which are extended with synthetic data to increase the dataset size and improve its utility in analysis and machine learning applications. You can find more information about this dataset on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php).
+The original dataset used in this project is the **UCI Mechanical Analysis Data Set**. This dataset contains various mechanical attributes, which are extended with synthetic data to increase the dataset size and improve its utility in analysis and machine learning applications. You can find more information about this dataset on the [UCI Machine Learning Repository](https://www.kaggle.com/datasets/heitornunes/mechanical-analysis).
 
 ## Features
 - Generates synthetic data points through interpolation between existing data points.
